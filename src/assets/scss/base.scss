@@ -1,0 +1,9 @@
+@import './_variables';
+@import './_navigation';
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, Arial;
+    font-weight: 500;
+    margin: 0;
+    background-color: #f8f9fa;
+}
